@@ -6,11 +6,11 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/OwnBase/', // ⚠️ заміни на своє
   plugins: [
     vue(),
     vueDevTools(),
   ],
-  base: '/OwnBase/', // ⚠️ заміни на своє
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
