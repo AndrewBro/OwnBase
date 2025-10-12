@@ -5,11 +5,57 @@
   <h2>
     ...
   </h2>
-  <ul>
-    <li>
-      <a href="">1. Плани тренувань</a>
+       <details>
+        <summary>1. Вправи</summary>
+        <ul>
+          <li>
+          <pre>
+  Статика:
 
-        <p></p> 
+  Мазамбік.
+  [Витрата 3.]
+  - стрілець стоїть спиною до мішені, руки вгору. Дистанція 10м.
+  - зброя опущена вниз, Статус RED.
+  - по команді таймера розвертається робить 2 постріли в груди і 1 в голову.
+
+  Ель Презідент.
+  [Витрата 12.]
+  - стрілець в позиції Low Ready. Дистанція 10м.
+  - Статус RED.
+  - 3 мішені.
+  - по команді таймера стрілець робить 6 пострілів (по 2 постріли в кожну мішень). Перезаряджається і знов 6 пострілів.
+  - всього 12 пострілів та 2 підходи.
+          
+  Вправа 25/15/10.
+  Основне завдання
+  1. Стрільба 25м,15м,10м.
+  2. Задача встигнути в 45 сек.
+  3. 25м - лежачи, 15м - з коліна, 10м - стоячи, 15м - з коліна, 25м - лежачи.
+  4. 10 набоів?.
+
+  Пістолет аналіз:
+  Задача на наступни стрільби з Пістолета
+  - Плечі внизу, я їх піднімаю
+  - руки не до кінця попереду, я їх сильно витягую вперед.
+  - Вивернути лікті на зовні.
+  - Дивитись спочатку на ціль , потім робити постріл. Не рухати оці разом з приуілом, приціл вторичний.
+  - Два вказівних пальця знаходяться паралельно один одному, лівий не вилазе вперед!
+  - Хват лівої руки, зверни увагу , щоб не було простору між двома руками 
+          </pre>
+          </li>
+          <li>
+            <p></p>
+            <div>Статика:</div>
+
+            <br></br>
+          </li>
+        </ul>
+        <br>
+      </details>
+        <br>
+      <details>
+        <summary>2. Плани тренувань</summary>
+     
         <b>12.10.2025</b>
         <div>Я та Антон. В наявності AR15 та Хатсан</div>
         <div>1. Підготовка</div>
@@ -24,12 +70,6 @@
         <div>3. Динаміка</div>
         <div>Вправа 1. Мазамбік.</div>
         <div>Витрата 9</div>
-        <div>- стрілець стоїть спиною до мішені, руки вгору. Дистанція 10м.</div>
-        <div>- зброя опущена вниз, Статус RED.</div>
-        <div>- по команді таймера розвертається робить 2 постріли в груди і 1 в голову.</div>
-        <br>
-        <div>Вправа 2. Мазамбік.</div>
-        <div>Витрата 6</div>
         <div>- стрілець стоїть спиною до мішені, руки вгору. Дистанція 10м.</div>
         <div>- зброя опущена вниз, Статус RED.</div>
         <div>- по команді таймера розвертається робить 2 постріли в груди і 1 в голову.</div>
@@ -154,8 +194,6 @@
         <div>⁃ Інструктор дає команду на стрільбу «Ап», та по закінченню стрілець каже «стрільбу закінчив» або «проблема».</div>
         <div>4 Розійшлись по групам </div>
         <div>⁃ Демонстрація ЯК СТРІЛЯТИ</div>
-
-
         <div>Вправа 1 [3 набоя по 2 підходи] </div>
         <div>Витрата 6</div>
         <div>- Стрілець виходить на рубіж, заряджає зброю.</div>
@@ -187,54 +225,98 @@
         <div>- По команді стрілець робить по 2 постріли на кожну мішень. Всього 3 мішені. </div>
         <div>- В кінці зброя розряджена і доповідь "Стрільбу закінчив".</div>
         <br>
-    </li>
-    <li>
-      <a href="">2. Вправи</a>
-      <ul>
-        <li>
-          <p>Статика</p>
-        </li>
-        <li>
-          <p>Динаміка</p>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <p><a href="">3. Як привести зброю до нормального бою</a></p>
-    </li>
-    <li>
-      <p><a href="">4. Склад</a></p>
-        <ul>
-          <li>
-            <a href="https://docs.google.com/spreadsheets/d/1Z2CoFZTuXPvBtf2c7IJMBggB_IaL2ikyeRp7Va2tyo4/edit?gid=1478603233#gid=1478603233">Настріл моєї зброї</a>
-          </li>
-          <li>
-            <a href="https://docs.google.com/spreadsheets/d/1Z2CoFZTuXPvBtf2c7IJMBggB_IaL2ikyeRp7Va2tyo4/edit?gid=1478603233#gid=1478603233">Склад БК</a>
-          </li>
-          <li>
-            <a href="https://docs.google.com/forms/d/1CnK72AN3eodDKtBTJk1Zg4tswpweNGbbkCTSLgkddfw/preview">Таблиця</a>
-          </li>
-        </ul>
-    </li>
-    <li>
-      <p><a href="">5. Бібліотека</a></p>
-    </li>
-    <li>
-      <p><a href="">6. Корисні відео</a></p>
-    </li>
-    <li>
+      </details>
+        <br>
+        <details>
+        <summary>3. Як привести зброю до нормального бою</summary>
+      <pre>
+1. Пристрілка (Zeriong) механіки
+Механіку пристрілюємо по принципу куля мушку водить. Тобто мушку підтягуємо під влучання кулі (якщо куля попала вниз мішені, то ми ОПУСКАЄМО прицільні засоби, якщо вверх, то ми ПІДНІМАЄМО мех. прицільні засоби)<a href="https://www.youtube.com/watch?v=DgL1Q9VGtL0&t=500s&pp=ygUh0L_RgNGP0LzQuNC5INC_0L7RgdGC0YDRltC7IGFyLTE1" target="_blank">
+Механіка
+</a>
+
+2.Пристрілка (Zeriong) каліматора<a href="https://www.youtube.com/watch?v=HNG2RC5cJsU" target="_blank">
+Каліматор
+</a>
+
+3.Мій каліматор
+——————————————————————————
+Мій каліматор
+Вертикальна на маоєму каліматорі Holosun зверху, а горизонтальна праворуч.
+Куди кулю треба скоригувати туди і крутим. Куля упала правіше , крутимо каліматор ПРАВОРУЧ!
+Ціна кліка 0.5 МОА - 1.5см на 100м
+Для того щоб внести поправку треба крутити так, як і впала куля. Якщо куля впала вниз, значить каліматор треба крутити вверх (на холосані перегорнути кришку , а на калаше намальовано 
+1 MOA в 10/2,9089 = 3,4377 раза. Это - линейное соотношение.
+Щоб розрахувати скільки треба внести поправку робимо
+- Один клік на цій відстані = (Один МОА це 3 см на 100 м) * (ВІДСТАНЬ 50 метрів) * (ЦІНА КЛАКА).
+Це буде 3 * 0,5 * 0,5 = 0,75.
+- Кількість кліків = Поправка / Один клік на цій відстані.
+На каліматорі і магніфері ціле коло 40 кліків, всього 9 повних обертів по 360*. Всього десь 360 кліків 
+
+
+5.Інструкція для CZ Bren 2 
+——————————————————————————
+Sighting-in the firearm with the supplied basic sights
+All assault rifles dispatched from the factory have already been sighted-in, i.e., the sights have been adjusted to an approximate distance of 25 m. The manufacturer recommends that the user conducts repeated sighting-in with ammunitions to be used with the assault rifle.
+Windage adjustment of the rear sight
+The windage adjustment is carried out when the position of the mean point of impact (MPI) in the horizontal plane is unsatisfactory.
+− when the MPI lies to the left of the target reference point in the target, turn the rear sight adjustment key the desired number
+of clicks clockwise (turning to the right). The rear sight dioptre moves to the right.
+− when the MPI lies to the right of the target reference point in the target, turn the rear sight adjustment key the desired number of
+clicks anti-clockwise (turning to the left).
+</pre>
+</details>
+<br>
+<details>
+  <summary>4. Склад</summary>
+  <div>
+  <ul>
+      <li>
+        <a href="https://docs.google.com/forms/d/1CnK72AN3eodDKtBTJk1Zg4tswpweNGbbkCTSLgkddfw/preview" target="_blank" >Форма</a>
+      </li>
+      <li>
+        <a href="https://docs.google.com/spreadsheets/d/1Z2CoFZTuXPvBtf2c7IJMBggB_IaL2ikyeRp7Va2tyo4/edit?gid=1478603233#gid=1478603233" target="_blank">Настріл моєї зброї</a>
+      </li>
+    </ul>
+    </div>
+</details>
+  
+    
+  <p><a href="">5. Бібліотека</a></p>
+  <p><a href="">6. Корисні матеріали</a></p>
+<pre>
+ТАКТИКА
+—————————————
+Робота з пістолетом.
+Робота в группі.
+Алгоритм SPORTS and POPS.
+Бойові порядки та перехід черз дорогу.
+Алгорит SOLUTE.
+Вправи.
+
+ТЕРМІНИ
+—————————————
+Indirect fire - непряма стрільба, стрільба з закритої позиції.
+Deep rest - позиція коли зброя трохи дивитися вниз , а не на саму ціль.
+Work space - зброя під мишкою , щоб оперувати її.
+Press Check - перевірка чи є патрон в патронику за допомогою невеликого віддягування затвора, щоб продивитись чи є патрон в патронику. 
+Draw pistol from holster - добування пістолета з кобури, або вскидка.
+
+НАБОЇ
+—————————————
+LC - lake City 
+М855 - бронебойні
+М955 - бронебойні 
+Литва - ss109
+Німеччина - D31 бронебійна куля сірого кольору 
+
+</pre>
       <p><a href="https://docs.google.com/spreadsheets/d/1zfF4GOvl7sEQUzkmo7DITS4P1Dee1A7sl1U0hW-LdYs/edit?gid=0#gid=0">Калькулятор MILS/MRAD/MOA</a></p>
-    </li>
     <p></p>
     <p></p>
     <p></p>
     <p></p>
     <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-  </ul>
 </template>
 
 <style>
