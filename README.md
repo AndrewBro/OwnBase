@@ -20,3 +20,8 @@ npm run build
 npm run deploy
 ```
 
+## Issue
+```sh
+nvm use --lts
+```
+
