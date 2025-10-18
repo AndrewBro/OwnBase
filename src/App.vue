@@ -4,7 +4,8 @@
 <template>
   <h1>Hook Base</h1>
   <p>
-  In Progress
+  To Do:
+  <br/>
   - калькулятор МРАД-МОА
   </p>
   <!-- 1. Вправи -->
@@ -261,6 +262,7 @@ Score/Par Time (No missses):
     </pre>
   </details>
 
+  <!-- 3. Пістолет -->
   <br>
   <details>
     <summary>3. Пістолет</summary>
@@ -291,6 +293,9 @@ Score/Par Time (No missses):
 
     </pre>
   </details>
+
+  <!-- Пристрілка -->
+  <br>
   <br>
   <details>
     <summary>Як привести зброю до нормального бою</summary>
